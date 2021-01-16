@@ -59,7 +59,7 @@ class IntroActivity : AppIntro() {
 
         val introMode = intent.getStringExtra(getString(R.string.intro_activity_mode))
         if (introMode == getString(R.string.intro_activity_mode_tutorial)) {
-            launchTutorialMode()
+           launchTutorialMode()
         } else if (introMode == getString(R.string.intro_activity_mode_overlay_update)) {
             launchOverlayMode()
         }
@@ -140,7 +140,7 @@ class IntroActivity : AppIntro() {
 
     }
 
-    override fun onSkipPressed(currentFragment: Fragment?) {
+        override fun onSkipPressed(currentFragment: Fragment?) {
         super.onSkipPressed(currentFragment)
         getPager().currentItem = 4
 

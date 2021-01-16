@@ -65,7 +65,7 @@ import static com.addie.timesapp.data.AppProvider.Apps.URI_APPS;
  */
 public class SplashActivity extends Activity {
 
-    private static final int SPLASH_TIMEOUT = 2000;
+    private static final int SPLASH_TIMEOUT = 1;
 
     private static final int APPS_LOADER_DB_ID = 486;
 
