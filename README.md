@@ -45,11 +45,5 @@ Use your time wisely.
 
 ## Screenshots
 
-![ss_1](https://user-images.githubusercontent.com/22665789/42932539-3023adba-8b60-11e8-9d3c-4a978dceecf9.png)
-![ss_2](https://user-images.githubusercontent.com/22665789/42932542-3361037e-8b60-11e8-850d-7ac92b6c5d76.png)
-![ss_3](https://user-images.githubusercontent.com/22665789/42932548-35a72ca8-8b60-11e8-9eb6-22afa0f76936.png)
-![ss_4](https://user-images.githubusercontent.com/22665789/42932553-377bb8f0-8b60-11e8-8bd3-4ed93ed5c7c5.png)
-![ss_5](https://user-images.githubusercontent.com/22665789/42932558-38ee37f8-8b60-11e8-922c-da3ff231d309.png)
-![ss_6](https://user-images.githubusercontent.com/22665789/42932562-3a27fc26-8b60-11e8-8391-4b2c02333ef7.png)
-![ss_7](https://user-images.githubusercontent.com/22665789/42932564-3b869848-8b60-11e8-97c3-ca1af7aaeaa3.png)
+
 

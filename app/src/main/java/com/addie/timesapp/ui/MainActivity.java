@@ -208,13 +208,13 @@ public class MainActivity extends AppCompatActivity implements AppAdapter.AppOnC
         boolean flipLongPress = preferences.getBoolean(getString(R.string.pref_flip_long_press_key),false);
         if((isLongPress && flipLongPress)||(!isLongPress&&!flipLongPress)){
 
-            try {
+           /* try {
                 createShortcut();
                 Toast.makeText(this, R.string.shortcut_created, Toast.LENGTH_SHORT).show();
             } catch (PackageManager.NameNotFoundException e) {
                 e.printStackTrace();
-            }
-
+            }*/
+            showTimerDialog();
         }
         else{
             showTimerDialog();
